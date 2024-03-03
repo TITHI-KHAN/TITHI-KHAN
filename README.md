@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tithi-khan" alt="tithi-khan" /></a> </p>
 
-<img align="right" alt="coding" width="350" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
+<img align="right" alt="coding" width="300" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
 
 - 🔭 I’m currently working on [Predictive Analysis of Housing Prices](https://github.com/TITHI-KHAN/Predictive-Analysis-of-Housing-Prices)
 
