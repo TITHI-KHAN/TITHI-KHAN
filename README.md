@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Assalamu Alaikum👋, I'm Nazmun Nahar Khanom</h1>
-<h3 align="center">A passionate researcher and teacher from Bangladesh</h3>
+<h3 align="center">A passionate Researcher and Teacher from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tithi-khan&label=Profile%20views&color=0e75b6&style=flat" alt="tithi-khan" /> </p>
 
