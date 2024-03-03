@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Machine Learning**
 
-- 📫 How to reach me **nazmun.nahar.khanom0@gmail.com**
+- 📫 How to reach me: **nazmun.nahar.khanom0@gmail.com**
 
 - 😄 Pronouns: She/Her/Hers
 
-- 📄 Know about my research works [https://www.researchgate.net/profile/Nazmun-Khanom-2?ev=hdr_xprf](https://www.researchgate.net/profile/Nazmun-Khanom-2?ev=hdr_xprf)
+- 📄 Know about my research works: [https://www.researchgate.net/profile/Nazmun-Khanom-2?ev=hdr_xprf](https://www.researchgate.net/profile/Nazmun-Khanom-2?ev=hdr_xprf)
 
-- ⚡ Fun fact **I am introvert at the beginning and extrovert at the end**
+- ⚡ Fun fact: **I am introvert at the beginning and extrovert at the end**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
