@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Assalamu Alaikum👋, I'm Nazmun Nahar Khanom</h1>
 <h3 align="center">A passionate researcher and teacher from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="">![image](https://github.com/TITHI-KHAN/TITHI-KHAN/assets/65033964/09b12c66-2b90-407a-a266-2055e8dce8f6)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tithi-khan&label=Profile%20views&color=0e75b6&style=flat" alt="tithi-khan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tithi-khan" alt="tithi-khan" /></a> </p>
+
+<img align="right" alt="coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
 
 - 🔭 I’m currently working on [Predictive Analysis of Housing Prices](https://github.com/TITHI-KHAN/Predictive-Analysis-of-Housing-Prices)
 
