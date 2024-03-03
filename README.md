@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="https://github.com/TITHI-KHAN/TITHI-KHAN/blob/main/GitHub%20banner.png" alt="logo" width="100%">
+</p>
+
 <h1 align="center">Assalamu Alaikum👋, I'm Nazmun Nahar Khanom</h1>
 <h3 align="center">A passionate Researcher and Teacher from Bangladesh</h3>
 
