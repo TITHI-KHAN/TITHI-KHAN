@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/tithikhan](https://www.kaggle.com/tithikhan)
 
-- 📝 I regularly write updates on my Personal Website [https://tithi-khan.github.io](https://tithi-khan.github.io)
+- 📝 I regularly write updates on my <strong> Personal Website </strong> [https://tithi-khan.github.io](https://tithi-khan.github.io)
 
 - 💬 Ask me about **Machine Learning**
 
