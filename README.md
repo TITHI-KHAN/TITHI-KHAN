@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="coding" width="300" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
 
-- 🔭 I’m currently working on [Real-Time Hand Gesture Digit Recognition]([https://github.com/TITHI-KHAN/Real-Time-HandGesture-DigitRecognition-MediaPipe-OpenCV])
+- 🔭 I’m currently working on [Real-Time Hand Gesture Digit Recognition](https://github.com/TITHI-KHAN/Real-Time-HandGesture-DigitRecognition-MediaPipe-OpenCV)
 
 - 🌱 I’m currently learning **Deep Learning from scratch**
 
