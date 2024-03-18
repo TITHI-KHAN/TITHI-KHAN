@@ -14,12 +14,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<div align="center">
   <img src="https://github.com/TITHI-KHAN/TITHI-KHAN/blob/main/GitHub%20banner.png" alt="logo" width="100%">
-</p>
+</div>
 
 <h1 align="center">Assalamu Alaikum👋, I'm Nazmun Nahar Khanom</h1>
 <h3 align="center">A passionate Researcher and Teacher from Bangladesh</h3>
+
+<body>
+  <p align="center">
+    <a href="mailto:nazmun.nahar.khanom0@gmail.com"><img src="https://img.shields.io/badge/Email-nazmun.nahar.khanom0%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+    <a href="https://github.com/TITHI-KHAN"><img src="https://img.shields.io/badge/GitHub-%40TITHI--KHAN-lightgrey?style=flat-square&logo=github"></a>
+    <a href="https://www.linkedin.com/in/nazmun-nahar-khanom-9135b51a9"><img src="https://img.shields.io/badge/LinkedIn-Nazmun%20Nahar%20Khanom-blue?style=flat-square&logo=linkedin"></a>
+    <a href="https://tithi-khan.github.io"><img src="https://img.shields.io/badge/Website-Tithi%20Khan-lightgrey?style=flat-square&logo=google-chrome"></a>
+    <a href="https://www.kaggle.com/tithikhan"><img src="https://img.shields.io/badge/Kaggle-Tithi%20Khan-blue?style=flat-square&logo=kaggle"></a>
+    <a href="https://www.researchgate.net/profile/Nazmun-Khanom-2?ev=hdr_xprf"><img src="https://img.shields.io/badge/ResearchGate-Nazmun%20Khanom-blue?style=flat-square&logo=researchgate"></a>
+    <br>
+  </p>
+</body>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tithi-khan&label=Profile%20views&color=0e75b6&style=flat" alt="tithi-khan" /> </p>
 
