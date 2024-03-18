@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/nazmun-nahar-khanom-9135b51a9"><img src="https://img.shields.io/badge/LinkedIn-Nazmun%20Nahar%20Khanom-blue?style=flat-square&logo=linkedin"></a>
     <a href="https://tithi-khan.github.io"><img src="https://img.shields.io/badge/Website-Tithi%20Khan-lightgrey?style=flat-square&logo=google-chrome"></a>
     <a href="https://www.kaggle.com/tithikhan"><img src="https://img.shields.io/badge/Kaggle-Tithi%20Khan-blue?style=flat-square&logo=kaggle"></a>
-    <a href="https://www.researchgate.net/profile/Nazmun-Khanom-2?ev=hdr_xprf"><img src="https://img.shields.io/badge/ResearchGate-Nazmun%20Khanom-blue?style=flat-square&logo=researchgate"></a>
+     <a href="https://www.researchgate.net/profile/Nazmun-Nahar-Khanom"><img src="https://img.shields.io/badge/ResearchGate-Nazmun%20Nahar%20Khanom-blue?style=flat-square&logo=researchgate"></a>
     <br>
   </p>
 </body>
