@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: She/Her/Hers
 
-- 📄 Know about my research works: [https://www.researchgate.net/profile/Nazmun-Khanom-2?ev=hdr_xprf](https://www.researchgate.net/profile/Nazmun-Khanom-2?ev=hdr_xprf)
+- 📄 Know about my research works: [[https://www.researchgate.net/profile/Nazmun-Khanom-2?ev=hdr_xprf]([https://www.researchgate.net/profile/Nazmun-Nahar-Khanom?ev=hdr_xprf](https://www.researchgate.net/profile/Nazmun-Nahar-Khanom?ev=hdr_xprf))]([https://www.researchgate.net/profile/Nazmun-Khanom-2?ev=hdr_xprf](https://www.researchgate.net/profile/Nazmun-Nahar-Khanom?ev=hdr_xprf))
 
 - ⚡ Fun fact: **I am introvert at the beginning and extrovert at the end**
 
